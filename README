@@ -1,0 +1,5 @@
+Description:
+Fix backgroundPosition property with jQuery .css() for Internet Explorer
+
+Usage:
+Keep the comment with the code please, thanks!
