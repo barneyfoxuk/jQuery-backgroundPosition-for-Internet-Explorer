@@ -1,5 +1,9 @@
 Description:
-Fix backgroundPosition property with jQuery .css() for Internet Explorer
+Internet Explorer uses backgrounPositionX and backgroundPositionY as opposed to backgroundPosition.
+This fixes the support of backgroundPosition with the jQuery css method in IE.
 
 Usage:
+You can continue to use backgroundPosition like always, this just normalizes the property for IE.
+
+Note:
 Keep the comment with the code please, thanks!
